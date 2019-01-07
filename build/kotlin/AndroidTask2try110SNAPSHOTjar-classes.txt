@@ -1,0 +1,1 @@
+/Users/anastasego/IdeaProjects/AndroidTask2try1/build/classes/kotlin/main/MainKt.class
