@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="99d579c4-9189-4b5c-834a-3646e31980f2" name="Default Changelist" comment="" />
+    <list default="true" id="99d579c4-9189-4b5c-834a-3646e31980f2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/test/kotlin/SimpleOneUserTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/kotlin/SimpleOneUserTest.kt" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -30,11 +32,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/kotlin/SimpleOneUserTest.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
-              <folding>
-                <element signature="e#0#73#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="152">
+              <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -51,11 +50,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/kotlin/TwoUserTest.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
-              <folding>
-                <element signature="e#0#73#0" expanded="true" />
-              </folding>
+            <state>
+              <caret selection-start-column="2" selection-end-line="34" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -110,10 +106,10 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/kotlin/main.kt" />
         <option value="$PROJECT_DIR$/build.gradle" />
-        <option value="$PROJECT_DIR$/src/test/kotlin/SimpleOneUserTest.kt" />
-        <option value="$PROJECT_DIR$/src/test/kotlin/TwoUserTest.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/StopwatchAbstraction.kt" />
         <option value="$PROJECT_DIR$/.travis.yml" />
+        <option value="$PROJECT_DIR$/src/test/kotlin/TwoUserTest.kt" />
+        <option value="$PROJECT_DIR$/src/test/kotlin/SimpleOneUserTest.kt" />
       </list>
     </option>
   </component>
@@ -180,7 +176,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546898527101" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546898552797" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -263,9 +259,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TwoUserTest - 2019.01.07 at 00h 36m 55s.xml">
-      <configuration name="TwoUserTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="TwoUserTest - 2019.01.07 at 00h 37m 07s.xml">
       <configuration name="TwoUserTest" configurationId="JUnit" />
     </history-entry>
@@ -292,6 +285,9 @@
     </history-entry>
     <history-entry file="TwoUserTest - 2019.01.07 at 00h 42m 26s.xml">
       <configuration name="TwoUserTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SimpleOneUserTest - 2019.01.08 at 01h 02m 24s.xml">
+      <configuration name="SimpleOneUserTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -371,16 +367,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/kotlin/TwoUserTest.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#73#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/StopwatchAbstraction.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-13">
@@ -395,13 +381,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/kotlin/TwoUserTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-start-column="2" selection-end-line="34" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/kotlin/SimpleOneUserTest.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="e#0#73#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="152">
+          <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
         </state>
       </provider>
     </entry>
